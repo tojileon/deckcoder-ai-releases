@@ -1,0 +1,52 @@
+DeckCoderAI Free Public Beta Licence
+Version 1 — 30 October 2026
+Copyright © 2026 Toji Leon. All rights reserved except as granted below.
+
+1. Free use
+Toji Leon grants you a non-exclusive, worldwide, royalty-free licence to
+install and use this version of DeckCoderAI for personal, educational,
+non-profit and commercial purposes. You may keep backup copies. There is
+no subscription, activation fee or time limit for using this version.
+External AI tools and services are separate and may charge their own fees.
+
+2. Application ownership and distribution
+DeckCoderAI is proprietary software. This licence does not grant access to
+the private development repository or permission to distribute a modified
+application, sell copies, sublicense the application, or use its branding
+to imply endorsement. You may share official download links. Except where
+applicable law or a third-party licence permits, you may not redistribute
+the application or reverse engineer it. Rights not granted are reserved.
+
+3. Your presentations and exported content
+You retain your rights in your own content. You may create, edit, copy,
+publish, distribute and sell presentations and exports made with the app.
+You may use, modify and distribute the DeckCoderAI-authored sample scenes,
+templates, HTML, CSS, JavaScript and playback/authoring helpers supplied
+for inclusion in those presentations, including in commercial work.
+This permission does not extend to redistribution of the desktop app.
+You are responsible for rights to third-party content you use.
+
+4. Third-party components
+Third-party software, fonts, images and other assets remain subject to
+their own licences and notices. Those terms control the relevant components
+and are not restricted by this licence. Preserve required notices when
+sharing assets or exported content. See THIRD-PARTY-NOTICES.txt and the
+component notices included with the application and presentation assets.
+
+5. Beta status and support
+This is beta software. Features, compatibility and future releases may
+change. Keep backups and rehearse before a live presentation. This licence
+does not promise future updates, support response times or compatibility
+with future operating systems. A later release may have different terms;
+that does not change the permissions granted for this version.
+
+6. Warranties and liability
+To the extent permitted by law, the software is provided as is, without
+additional warranties, and Toji Leon is not liable for loss arising from
+its use. Nothing in this licence excludes, restricts or modifies rights,
+guarantees or remedies that cannot lawfully be excluded, including any
+applicable rights under the Australian Consumer Law.
+
+7. Contact
+For support or licence questions, email hello@remylo.app with DeckCoderAI
+in the subject. Do not send passwords, API keys or private presentations.

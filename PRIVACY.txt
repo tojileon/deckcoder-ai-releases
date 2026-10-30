@@ -1,0 +1,52 @@
+DeckCoderAI desktop beta — privacy notice
+30 October 2026
+
+DeckCoderAI is developed by Toji Leon. Contact hello@remylo.app with
+DeckCoderAI privacy in the subject for privacy questions.
+
+Local files and settings
+The app saves presentations, speaker notes, assets and version history on
+your computer. It also stores preferences, recent presentation paths,
+thumbnail caches, agent connection settings and recovery data in its local
+application profile. Recovery data and history can contain earlier content.
+Removing the app alone does not remove presentations or its profile.
+Folders you place in iCloud, OneDrive or another sync service are governed
+by that service's settings and policies.
+
+AI tools
+DeckCoderAI does not provide a hosted AI model. When you connect an external
+agent or paste an authoring brief into one, that tool can receive the
+content you share and the data its permitted tools read, including slides,
+notes or images. The AI provider's terms and privacy policy apply. MCP
+access can be closed in Agent access. Separate file and computer-control
+tools have their own permissions. AI subscriptions and usage fees are not
+included in the free desktop app.
+
+Network connections
+The app has no built-in analytics service or automatic crash-report upload.
+Presentations may load websites, remote assets, YouTube or Vimeo content.
+Those services receive network information such as your IP address and may
+process content or cookies under their own policies. A presentation can
+contain authored JavaScript that makes network requests. Local storage of
+a deck does not make all of its content offline or private. Open content
+you trust and check its external dependencies before presenting or sharing.
+
+Sharing and support
+Browser exports exclude speaker notes. Presentation snapshots include notes
+and local assets; PDF and PowerPoint exports may include notes depending
+on the export option. Inspect files before sharing. Support email is handled
+through the mailbox provider; send only the information needed to diagnose
+the problem, preferably a minimal example with private content removed.
+Support correspondence is used to answer requests and investigate issues.
+Ask the contact above about deletion of correspondence; applicable legal
+retention requirements may limit deletion.
+
+Deletion and updates
+You control your deck files and exported copies. The application profile is
+normally under ~/Library/Application Support/DeckCoderAI on macOS and
+%APPDATA%/DeckCoderAI on Windows. An upgraded installation may retain an
+older DeckCoder AI or HTML Presenter profile. Close the app and back up
+needed content before deleting a profile, including recovery data. Deleting
+local files does not remove copies already shared or held by cloud services.
+This beta uses manual downloads for updates. Website and download-host
+data handling must be described on the distribution website separately.
