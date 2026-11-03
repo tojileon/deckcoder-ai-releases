@@ -48,5 +48,5 @@ guarantees or remedies that cannot lawfully be excluded, including any
 applicable rights under the Australian Consumer Law.
 
 7. Contact
-For support or licence questions, email hello@remylo.app with DeckCoderAI
+For support or licence questions, email toji@tojileon.com with DeckCoderAI
 in the subject. Do not send passwords, API keys or private presentations.
